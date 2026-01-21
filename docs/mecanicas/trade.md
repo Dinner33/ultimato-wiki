@@ -31,7 +31,7 @@ Quanto mais raro o item, maior tende a ser seu **valor social e econômico**.
 
 Abaixo está a **Tier List oficial de raridade**, usada como referência pela comunidade:
 
-> 📷 *![Tier List de Itens](docs/images/tierlist.png)*
+> 📷 *![Tier List de Itens](/images/tierlist.png)*
 
 Essa lista ajuda a:
 - Comparar raridades
@@ -58,6 +58,7 @@ Nunca confie apenas em palavras —
 - 💎 Itens raros são disputados entre jogadores
 - 📊 A Tier List ajuda a medir valor
 - ⚠️ Sempre verifique antes de negociar
+
 
 
 
