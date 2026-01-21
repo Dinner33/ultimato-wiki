@@ -1,11 +1,11 @@
-## 🏆 Poder, Status e Disputa
+## 🏆 Trocas, e seu poder
 
-A **Vitrine** é uma das mecânicas mais **disputadas** do servidor.
+A **Troca** é uma das mecânicas mais **disputadas** do servidor.
 
-Ela vai muito além de exibição:  
-ter itens raros na vitrine representa **poder**, **status** e **reconhecimento** dentro do Ultimato.
+A Troca é uma mecanica essencial aqui:  
+ter itens raros para Troca representa **poder**, **status** e **reconhecimento** dentro do Ultimato. Isso por conta do sistema de Vitrine, que serve como status.
 
-[📦 Ir para Comandos](/comandos/comandos.md){ .md-button }
+[📦 Ver comandos](/comandos/comandos.md){ .md-button }
 [🖼️ Ir para a Vitrine](/mecanicas/vitrine.md){ .md-button .md-button--primary }
 
 ---
@@ -31,7 +31,7 @@ Quanto mais raro o item, maior tende a ser seu **valor social e econômico**.
 
 Abaixo está a **Tier List oficial de raridade**, usada como referência pela comunidade:
 
-> 📷 *![Tier List de Itens](/images/tierlist.png)*
+> 📷 *![Tier List de Itens](/imagem/tierlist.png)*
 
 Essa lista ajuda a:
 - Comparar raridades
@@ -49,15 +49,16 @@ Sempre **verifique a raridade real** do seu item antes de negociar.
     mas a **Tier List** serve como base para evitar golpes e desinformação.
 
 Nunca confie apenas em palavras —  
-**confira a raridade, a vitrine e o status de verificação do item**.
+**confira a raridade, a Troca e o status de verificação do item**.
 
 ---
 
 ## 🧠 Resumo rápido
-- 🖼️ A vitrine é um símbolo de **poder**
+- 🖼️ A Troca é um símbolo de **poder**
 - 💎 Itens raros são disputados entre jogadores
 - 📊 A Tier List ajuda a medir valor
 - ⚠️ Sempre verifique antes de negociar
+
 
 
 
