@@ -2,6 +2,8 @@
 
 Esta página lista os **principais comandos disponíveis para jogadores** no **Ultimato SMP**.
 
+[📚 Ver Subcomandos](subcomandos.md){ .md-button .md-button--primary }
+
 ---
 
 ## 🌍 Teleporte & Locomoção
@@ -13,18 +15,20 @@ Teleporta o jogador para o **spawn principal** do servidor.
 
 ### `/rtp`
 Abre um **menu de seleção de mundos**, permitindo se teleportar para:
-- Overworld
-- Nether
+- Overworld  
+- Nether  
 - End  
+
 Também é usado para **sair do spawn**.
 
 ---
 
 ### `/warps`
 Abre um **menu de warps do spawn**, como:
-- Spawn
-- Vegas
+- Spawn  
+- Vegas  
 - Área AFK  
+
 Permite ir rapidamente para regiões importantes.
 
 ---
@@ -37,6 +41,11 @@ Solicita que **outro jogador venha até você**.
 
 ### `/tpaccept`
 Aceita uma solicitação de teleporte pendente.
+
+---
+
+### `/back`
+Teleporta você **de volta ao local da última morte**, de forma rápida e prática.
 
 ---
 
@@ -56,8 +65,7 @@ Os dados do perfil também são enviados no canal **#perfil** do Discord.
 ---
 
 ### `/colecao`
-Abre sua **vitrine de itens raros**.  
-Você pode:
+Abre sua **vitrine de itens raros**, onde você pode:
 - Mostrar itens
 - Ostentar conquistas
 - Exibir sua coleção para outros jogadores
@@ -84,10 +92,10 @@ Abre o mercado para:
 ---
 
 ### `/ordens`
-Permite criar **pedidos de itens**:
-- Define o item
-- Define a quantidade
-- Define o valor pago  
+Permite criar **pedidos de itens**, definindo:
+- Item desejado
+- Quantidade
+- Valor pago  
 
 Outros jogadores entregam os itens e o sistema faz tudo **automaticamente**.
 
@@ -95,6 +103,44 @@ Outros jogadores entregam os itens e o sistema faz tudo **automaticamente**.
 
 ### `/valores`
 Mostra o **preço base de todos os itens** do servidor usados no `/vender`.
+
+---
+
+### `/balance`
+Mostra **quanto dinheiro você possui** atualmente.
+
+---
+
+### `/shop`
+Abre a loja do servidor, onde é possível comprar itens usando:
+- 💰 Dinheiro
+- ⏳ Frascos do Tempo
+
+---
+
+## 🔁 Trocas entre Jogadores
+
+### `/troca <player>`
+Envia uma solicitação de troca para outro jogador.
+
+✅ Você pode trocar:
+- Dinheiro
+- Itens
+- Frascos do Tempo
+
+!!! warning "Importante"
+    As trocas **só podem ser feitas no spawn**.
+
+[➡️ Ver subcomandos de /troca](subcomandos.md#troca){ .md-button }
+
+---
+
+## ⏳ Frascos do Tempo
+
+### `/frascosdotempo`
+Sistema de **Frascos do Tempo** (ver saldo, enviar, consultar outros jogadores).
+
+[➡️ Ver subcomandos de /frascosdotempo](subcomandos.md#frascosdotempo){ .md-button }
 
 ---
 
@@ -110,18 +156,10 @@ Teleporta você para o ponto criado com `/sethome`.
 
 ## 👥 Times (Clãs)
 
-### `/team create`
-Cria um **time/clã**, que pode ter:
-- Ender chest compartilhado
-- Sistema próprio do time
+### `/team`
+Sistema de times/clãs.
 
-A criação **custa dinheiro**.
-
-!!! tip "Prefixo de time"
-    Para definir um prefixo do time, use:  
-    ```
-    /team prefix <prefixo>
-    ```
+[➡️ Ver subcomandos de /team](subcomandos.md#team){ .md-button }
 
 ---
 
@@ -135,6 +173,4 @@ Envia mensagens no **chat global**.
 ### `/escondertab`
 Esconde o **scoreboard** da tela.
 
-- Use novamente o comando para **ativar o scoreboard** de volta.
-
----
+- Use o comando novamente para **ativar o scoreboard**.
