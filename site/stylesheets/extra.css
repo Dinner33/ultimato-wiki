@@ -1,0 +1,79 @@
+/* =========================
+   Ultimato — Purple/Black Premium
+   ========================= */
+
+/* Fundo e cores base */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #070710;
+  --md-default-fg-color: #eaeaf2;
+  --md-default-fg-color--light: #cfcfe6;
+  --md-default-fg-color--lighter: #a7a7c7;
+
+  --md-primary-fg-color: #6d28d9;      /* roxo forte */
+  --md-accent-fg-color: #a855f7;       /* roxo neon */
+  --md-code-bg-color: #0d0d18;
+
+  --md-typeset-a-color: #c084fc;
+}
+
+/* Header + tabs com gradiente */
+.md-header,
+.md-tabs {
+  background: radial-gradient(1200px 600px at 10% 10%, rgba(168,85,247,.35), transparent 60%),
+              linear-gradient(90deg, rgba(109,40,217,.95), rgba(17,17,34,.95));
+  box-shadow: 0 10px 30px rgba(0,0,0,.35);
+  border-bottom: 1px solid rgba(168,85,247,.18);
+}
+
+/* Cards e blocos com “glass” */
+.md-typeset .admonition,
+.md-typeset details {
+  border: 1px solid rgba(168,85,247,.22);
+  background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.01));
+  backdrop-filter: blur(8px);
+  border-radius: 14px;
+}
+
+/* Código: borda neon e melhor leitura */
+.md-typeset pre > code {
+  border: 1px solid rgba(168,85,247,.18);
+  border-radius: 14px;
+}
+
+/* Títulos mais “brand” */
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  letter-spacing: .2px;
+}
+
+.md-typeset h1 {
+  background: linear-gradient(90deg, #c084fc, #7c3aed, #a855f7);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Links com glow suave */
+.md-typeset a:hover {
+  text-shadow: 0 0 14px rgba(168,85,247,.35);
+}
+
+/* Sidebar mais clean */
+.md-sidebar__scrollwrap {
+  scrollbar-color: rgba(168,85,247,.45) transparent;
+}
+.md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+  background: rgba(168,85,247,.35);
+  border-radius: 999px;
+}
+
+/* Botão de copiar em code mais visível */
+.md-clipboard {
+  filter: drop-shadow(0 0 10px rgba(168,85,247,.35));
+}
+
+/* Linha de separação mais elegante */
+.md-typeset hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(168,85,247,.35), transparent);
+}

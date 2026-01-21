@@ -120,6 +120,16 @@
     
     <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
         <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#plugins-instalar-abaixo" class="nav-link">Plugins (instalar abaixo)</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            
+            <li class="nav-item" data-bs-level="1"><a href="#opcional-deixa-o-site-mais-brand" class="nav-link">(Opcional) deixa o site mais "brand"</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
         </ul>
     </div>
 </div></div>
@@ -127,11 +137,72 @@
 
 <p>theme:
   name: material
+  language: pt-BR</p>
+<p># Topo + navegação mais "site de produto"
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - search.suggest
+    - search.highlight
+    - search.share</p>
+<p># Modo escuro + (opcional) toggle
   palette:
-    scheme: slate
-    primary: deep purple
-    accent: purple
-  language: pt</p>
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro</p>
+<p>font:
+    text: Inter
+    code: JetBrains Mono</p>
+<p>icon:
+    logo: material/book-open-page-variant
+    repo: fontawesome/brands/github</p>
+<h1 id="plugins-instalar-abaixo">Plugins (instalar abaixo)</h1>
+<p>plugins:
+  - search:
+      lang: pt
+  - tags
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+      locale: pt
+  - minify:
+      minify_html: true</p>
+<p>markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg</p>
+<p>extra_css:
+  - stylesheets/extra.css</p>
+<h1 id="opcional-deixa-o-site-mais-brand">(Opcional) deixa o site mais "brand"</h1>
+<p>extra:
+  generator: false</p>
 <p>nav:
   - Início: index.md
   - Comandos:
@@ -144,7 +215,7 @@
   - Mecânicas:
       - Frascos do tempo: mecanicas/frascosdotempo.md
       - Trades: mecanicas/trade.md
-      - vitrine: mecanicas/vitrine.md</p></div>
+      - Vitrine: mecanicas/vitrine.md</p></div>
             </div>
         </div>
 
@@ -226,5 +297,5 @@
 
 <!--
 MkDocs version : 1.6.1
-Build Date UTC : 2026-01-21 13:57:25.780427+00:00
+Build Date UTC : 2026-01-21 14:38:48.748774+00:00
 -->
