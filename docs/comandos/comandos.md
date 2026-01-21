@@ -138,4 +138,3 @@ Esconde o **scoreboard** da tela.
 - Use novamente o comando para **ativar o scoreboard** de volta.
 
 ---
-
