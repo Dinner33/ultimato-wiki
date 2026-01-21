@@ -1,1 +1,89 @@
-site_name: My Docs
+site_name: Ultimato Wiki
+site_description: Wiki oficial do servidor Ultimato
+site_author: Ultimato Network
+site_url: https://dinner33.github.io/ultimato-wiki/
+
+theme:
+  name: material
+  language: pt-BR
+
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - search.suggest
+    - search.highlight
+    - search.share
+
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+  icon:
+    logo: material/book-open-page-variant
+
+plugins:
+  - search:
+      lang: pt
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+      locale: pt
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  generator: false
+
+nav:
+  - Início: index.md
+  - Comandos:
+      - Comandos gerais: comandos/comandos.md
+      - Sub comandos: comandos/subcomandos.md
+  - Dúvidas Comum:
+      - Geral: duvidascomum/duvidascomum.md
+  - Guia:
+      - Guia: guia/inicio.md
+  - Mecânicas:
+      - Frascos do tempo: mecanicas/frascosdotempo.md
+      - Trades: mecanicas/trade.md
+      - Vitrine: mecanicas/vitrine.md
