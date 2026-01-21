@@ -25,5 +25,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Build site
+        run: mkdocs build
+
+      - name: Add CNAME
+        run: echo "wiki.ultimato.xyz" > site/CNAME
+
       - name: Deploy to gh-pages
-        run: mkdocs gh-deploy --force --cname wiki.ultimato.xyz
+        run: mkdocs gh-deploy --force
