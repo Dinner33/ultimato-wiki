@@ -1,4 +1,4 @@
-# Ultimato Wiki 🟣⚫️
+# Ultimato Wiki 🟣
 
 Bem-vindo à wiki oficial do **Ultimato SMP**.
 
