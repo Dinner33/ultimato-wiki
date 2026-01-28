@@ -7,7 +7,7 @@ Item equipável na cabeça, com **modelo custom**.
 - Resistência I
 - Haste II
 
-> 📷 *![Auréola Vulcânica](../imagem/aureolavulcanica.png)*
+> *![Auréola Vulcânica](../imagem/aureolavulcanica.png)*
 
 ---
 
