@@ -8,7 +8,7 @@ Atributos:
 
 Superior a um peitoral de Netherite.
 
-> 📷 *![Asas do Anjo Caído](/imagem/asasdoanjocaido.png)*
+> 📷 *![Asas do Anjo Caído](../imagem/asasdoanjocaido.png)*
 
 ---
 
