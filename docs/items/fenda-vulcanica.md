@@ -6,7 +6,7 @@ A **Fenda Vulcânica** é uma picareta tunada para **escavação rápida**.
 - Velocidade extremamente alta
 - Ideal para **bases, farms e mineração intensiva**
 
-> 📷 *![Fenda Vulcânica](/imagem/fendavulcanica.png)*
+> 📷 *![Fenda Vulcânica](../imagem/fendavulcanica.png)*
 
 ---
 
