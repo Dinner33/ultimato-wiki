@@ -11,7 +11,7 @@ Encantamentos:
 - Alcance III
 - Repulsão I
 
-> *![Hattori Hanzo](../imagem/hattorizhanzo.png)*
+> *![Hattori Hanzo](../imagem/hattorihanzo.png)*
 
 ---
 
