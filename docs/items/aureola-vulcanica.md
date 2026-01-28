@@ -13,4 +13,7 @@ Item equipável na cabeça, com **modelo custom**.
 
 **Obtenção**
 - Caixa da Dor
-- Concedida junto da Fenda Vulcânica
+
+!!! info
+    Ao obter na Caixa da Dor,  
+    a Fenda Vulcanica é concedida junta.
