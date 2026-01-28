@@ -9,7 +9,7 @@ Ao quebrar um baú com ele:
 
 É amplamente usado por jogadores focados em **farm, dinheiro e otimização**.
 
-> 📷 *![Machado Midas](/imagem/machadomidas.png)*
+> 📷 *![Machado Midas](../imagem/machadomidas.png)*
 
 ---
 
