@@ -1,11 +1,8 @@
-## 👑 Auréola Vulcânica
+Item equipável na cabeça, com **modelo custom**.
 
-A **Auréola Vulcânica** é um item equipável na cabeça, com **modelo custom**.
-
-Atributos:
 - Inquebrável
-- **+8 de armadura**
-- **+4 de tenacidade**
+- +8 de armadura
+- +4 de tenacidade
 - Velocidade I
 - Resistência I
 - Haste II
@@ -14,6 +11,6 @@ Atributos:
 
 ---
 
-### 📦 Como obter
-- Disponível na **Caixa da Dor**
-- Obtida **junto da Fenda Vulcânica**
+**Obtenção**
+- Caixa da Dor
+- Concedida junto da Fenda Vulcânica
