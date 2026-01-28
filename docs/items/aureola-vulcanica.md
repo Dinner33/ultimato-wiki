@@ -10,7 +10,7 @@ Atributos:
 - Resistência I
 - Haste II
 
-> 📷 *![Auréola Vulcânica](/imagem/aureolavulcanica.png)*
+> 📷 *![Auréola Vulcânica](../imagem/aureolavulcanica.png)*
 
 ---
 
