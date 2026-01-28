@@ -87,4 +87,5 @@ nav:
       - Frascos do tempo: mecanicas/frascosdotempo.md
       - Trades: mecanicas/trade.md
       - Vitrine: mecanicas/vitrine.md
-
+  - items:
+      - Items: items/items.yml
