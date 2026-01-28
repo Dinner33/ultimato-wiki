@@ -6,7 +6,7 @@ O **Farelo do Anjo Caído** é um foguete de artifício **infinito**.
 - Não consome durabilidade
 - Elimina a necessidade de fabricar foguetes
 
-> 📷 *![Farelo do Anjo Caído](/imagem/farelodoanjocaido.png)*
+> 📷 *![Farelo do Anjo Caído](../imagem/farelodoanjocaido.png)*
 
 ---
 
