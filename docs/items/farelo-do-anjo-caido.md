@@ -10,4 +10,6 @@ Foguete de artifício com **uso infinito**.
 
 **Obtenção**
 - Caixa da Dor
-- Concedido junto das Asas do Anjo Caído
+!!! info
+    Ao obter na Caixa da Dor,  
+    as Asas do Anjo Caido é concedida junto.
