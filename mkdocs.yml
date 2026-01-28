@@ -88,4 +88,11 @@ nav:
       - Trades: mecanicas/trade.md
       - Vitrine: mecanicas/vitrine.md
   - items:
-      - Items Especiais: items/items.md
+      - Machado Midas: items/machado-midas.md
+      - Hattori Hanzo: items/hattori-hanzo.md
+      - Fenda Vulcanica: items/fenda-vulcanica.md
+      - Farelo do Anjo Caido: items/farelo-do-anjo-caido.md
+      - Aureola Vulcanica: items/aureola-vulcanica.md
+      - Asas do Anjo Caido: items/asas-do-anjo-caido.md
+      - Alma Arruinada: items/alma-arruinada.md
+      - ???: items/???.md
