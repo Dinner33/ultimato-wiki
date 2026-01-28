@@ -8,169 +8,201 @@ Esta página lista os **principais comandos disponíveis para jogadores** no **U
 
 ## 🌍 Teleporte & Locomoção
 
-### `/spawn`
-Teleporta o jogador para o **spawn principal** do servidor.
+??? question "`/spawn`"
+    Teleporta o jogador para o **spawn principal** do servidor.
+
+??? question "`/rtp`"
+    Abre um **menu de seleção de mundos**, permitindo se teleportar para:
+    - Overworld
+    - Nether
+    - End
+
+    Também é usado para **sair do spawn**.
+
+??? question "`/warps`"
+    Abre um **menu de warps do spawn**, como:
+    - Spawn
+    - Vegas
+    - Área AFK
+
+    Permite ir rapidamente para regiões importantes.
+
+??? question "`/tpa <player>`"
+    Solicita teleporte **até outro jogador**.
+
+??? question "`/tpahere <player>`"
+    Solicita que **outro jogador venha até você**.
+
+??? question "`/tpaccept`"
+    Aceita uma solicitação de teleporte pendente.
+
+??? question "`/back`"
+    Teleporta você **de volta ao local da última morte**.
 
 ---
 
-### `/rtp`
-Abre um **menu de seleção de mundos**, permitindo se teleportar para:
-- Overworld  
-- Nether  
-- End  
+## 👤 Perfil & Estatísticas
 
-Também é usado para **sair do spawn**.
+??? question "`/perfil`"
+    Abre o **perfil do jogador**, mostrando:
+    - Estatísticas
+    - Coleções
+    - Informações gerais
 
----
+    Os dados também são enviados no canal **#perfil** do Discord.
 
-### `/warps`
-Abre um **menu de warps do spawn**, como:
-- Spawn  
-- Vegas  
-- Área AFK  
+    Use `/perfil <player>` para visualizar outro jogador.
 
-Permite ir rapidamente para regiões importantes.
+??? question "`/stats`"
+    Mostra seus **status úteis no servidor**, incluindo dados de progressão e desempenho.
 
----
-
-### `/tpa <player>`
-Solicita teleporte **até outro jogador**.
-
-### `/tpahere <player>`
-Solicita que **outro jogador venha até você**.
-
-### `/tpaccept`
-Aceita uma solicitação de teleporte pendente.
+??? question "`/moneytop`"
+    Abre um **menu visual** com:
+    - Jogadores mais ricos
+    - Jogadores mais pobres
+    - Sua **posição no ranking econômico**
 
 ---
 
-### `/back`
-Teleporta você **de volta ao local da última morte**, de forma rápida e prática.
+## 🖼️ Coleções & Vitrine
 
----
+??? question "`/colecao`"
+    Abre sua **vitrine de itens raros**, permitindo:
+    - Mostrar itens
+    - Ostentar conquistas
+    - Exibir sua coleção
 
-## 👤 Perfil & Coleções
-
-### `/perfil`
-Abre o **perfil do jogador**, mostrando:
-- Estatísticas
-- Coleções
-- Informações gerais
-
-Os dados do perfil também são enviados no canal **#perfil** do Discord.
-
-!!! info "Dica"
-    Use `/perfil <player>` para visualizar o perfil de outro jogador.
-
----
-
-### `/colecao`
-Abre sua **vitrine de itens raros**, onde você pode:
-- Mostrar itens
-- Ostentar conquistas
-- Exibir sua coleção para outros jogadores
-
----
-
-### `/colecao <player>`
-Visualiza a **coleção/vitrine de outro jogador**.
+??? question "`/colecao <player>`"
+    Visualiza a **vitrine de outro jogador**.
 
 ---
 
 ## 🛒 Economia & Comércio
 
-### `/vender`
-Vende seus itens automaticamente e **aumenta seu multiplicador de venda**.
+??? question "`/vender`"
+    Vende seus itens automaticamente e **aumenta seu multiplicador de venda**.
 
----
+??? question "`/mercado`"
+    Abre o mercado para:
+    - Ver itens à venda por outros jogadores
+    - Comprar diretamente de players
 
-### `/mercado`
-Abre o mercado para:
-- Ver itens à venda por outros jogadores
-- Comprar diretamente de players
+??? question "`/ordens`"
+    Permite criar **pedidos de itens**, definindo:
+    - Item desejado
+    - Quantidade
+    - Valor pago
 
----
+    Outros jogadores entregam os itens e o sistema faz tudo **automaticamente**.
 
-### `/ordens`
-Permite criar **pedidos de itens**, definindo:
-- Item desejado
-- Quantidade
-- Valor pago  
+??? question "`/valores`"
+    Mostra o **preço base dos itens** utilizados no `/vender`.
 
-Outros jogadores entregam os itens e o sistema faz tudo **automaticamente**.
+??? question "`/balance`"
+    Mostra **quanto dinheiro você possui** atualmente.
 
----
-
-### `/valores`
-Mostra o **preço base de todos os itens** do servidor usados no `/vender`.
-
----
-
-### `/balance`
-Mostra **quanto dinheiro você possui** atualmente.
-
----
-
-### `/shop`
-Abre a loja do servidor, onde é possível comprar itens usando:
-- 💰 Dinheiro
-- ⏳ Frascos do Tempo
+??? question "`/shop`"
+    Abre a loja do servidor, permitindo compras usando:
+    - 💰 Dinheiro
+    - ⏳ Frascos do Tempo
 
 ---
 
 ## 🔁 Trocas entre Jogadores
 
-### `/troca <player>`
-Envia uma solicitação de troca para outro jogador.
+??? question "`/troca <player>`"
+    Envia uma solicitação de troca para outro jogador.
 
-✅ Você pode trocar:
-- Dinheiro
-- Itens
-- Frascos do Tempo
+    É possível trocar:
+    - Dinheiro
+    - Itens
+    - Frascos do Tempo
 
-!!! warning "Importante"
-    As trocas **só podem ser feitas no spawn**.
+    !!! warning
+        As trocas **só podem ser feitas no spawn**.
 
-[➡️ Ver subcomandos de /troca](subcomandos.md#troca){ .md-button }
+    [➡️ Ver subcomandos de /troca](subcomandos.md#troca){ .md-button }
 
 ---
 
 ## ⏳ Frascos do Tempo
 
-### `/frascosdotempo`
-Sistema de **Frascos do Tempo** (ver saldo, enviar, consultar outros jogadores).
+??? question "`/frascosdotempo`"
+    Sistema de **Frascos do Tempo**:
+    - Ver saldo
+    - Enviar
+    - Consultar outros jogadores
 
-[➡️ Ver subcomandos de /frascosdotempo](subcomandos.md#frascosdotempo){ .md-button }
+    [➡️ Ver subcomandos de /frascosdotempo](subcomandos.md#frascosdotempo){ .md-button }
 
 ---
 
 ## 🏠 Casas & Pontos
 
-### `/sethome`
-Define um ponto de teleporte pessoal.
+??? question "`/sethome`"
+    Define um ponto de teleporte pessoal.
 
-### `/home <nome>`
-Teleporta você para o ponto criado com `/sethome`.
+??? question "`/home <nome>`"
+    Teleporta você para um ponto criado com `/sethome`.
+
+??? question "`/edithome`"
+    Edita os **dados de uma home existente**.
+
+---
+
+## 📦 Correio
+
+??? question "`/correio`"
+    Sistema de correio do servidor.
+
+    Permite:
+    - Resgatar recompensas globais
+    - Receber itens comprados na loja
+    - Enviar e receber **presentes com mensagens**
 
 ---
 
 ## 👥 Times (Clãs)
 
-### `/team`
-Sistema de times/clãs.
+??? question "`/team`"
+    Sistema de times/clãs.
 
-[➡️ Ver subcomandos de /team](subcomandos.md#team){ .md-button }
+    [➡️ Ver subcomandos de /team](subcomandos.md#team){ .md-button }
+
+---
+
+## 🎁 Kits
+
+??? question "`/qkits`"
+    Abre o menu com **todos os kits disponíveis** no servidor.
 
 ---
 
 ## 💬 Chat & Interface
 
-### `/g`
-Envia mensagens no **chat global**.
+??? question "`/g`"
+    Envia mensagens no **chat global**.
+
+??? question "`/escondertab`"
+    Esconde o **scoreboard** da tela.
+
+    Use o comando novamente para reativar.
 
 ---
 
-### `/escondertab`
-Esconde o **scoreboard** da tela.
+## ⭐ Comandos VIP
 
-- Use o comando novamente para **ativar o scoreboard**.
+??? question "`/fly`"
+    Permite **voar no spawn**.
+
+    Disponível **apenas para VIPs**.
+
+??? question "`/craft`"
+    Abre uma **bancada de craft virtual**.
+
+    Disponível **apenas para VIPs**.
+
+??? question "`/ec`"
+    Abre seu **Ender Chest** de qualquer lugar.
+
+    Disponível **apenas para VIPs**.
