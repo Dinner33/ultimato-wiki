@@ -1,5 +1,3 @@
-## 🟣 Alma Arruinada
-
 A **Alma Arruinada** é um item lendário com **modelo custom**,  
 além de **efeitos visuais e sons ao equipar e remover**.
 
@@ -14,7 +12,7 @@ Atributos:
 - Pressa II
 - Super Salto I
 
-> 📷 *![Alma Arruinada](../imagem/almaarruinada.png)*
+> *![Alma Arruinada](../imagem/almaarruinada.png)*
 
 ---
 
