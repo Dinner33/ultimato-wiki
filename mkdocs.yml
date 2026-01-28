@@ -41,7 +41,7 @@ theme:
 
 
   icon:
-    logo: material/book-open-page-variant
+    logo: material/book-open-variant
 
 plugins:
   - search:
