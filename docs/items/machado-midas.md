@@ -1,22 +1,19 @@
-## 🪓 Machado Midas
+Item focado em **venda em massa** e **otimização econômica**.
 
-O **Machado Midas** é um item focado em **economia em larga escala**.
+Ao quebrar um baú:
+- O baú permanece intacto
+- Todos os itens são vendidos automaticamente
+- Permite vender milhares de itens em poucos minutos
 
-Ao quebrar um baú com ele:
-- O **baú permanece**
-- **Todos os itens são vendidos automaticamente**
-- Permite vender **milhares de itens em minutos**
+Usado principalmente por jogadores com farms grandes.
 
-É amplamente usado por jogadores focados em **farm, dinheiro e otimização**.
-
-> 📷 *![Machado Midas](../imagem/machadomidas.png)*
+> *![Machado Midas](../imagem/machadomidas.png)*
 
 ---
 
-### 📦 Como obter
-- Disponível na **Caixa Gaia**
-- ⏳ **Duração limitada**: se auto destrói em 5 dias
+**Obtenção**
+- Caixa Gaia
+- ⏳ Duração limitada: 5 dias
 
-!!! warning "Atenção"
-    O tempo do item é limitado.  
-    Use estrategicamente para maximizar o lucro.
+!!! warning
+    O item se auto destrói ao final do tempo.
