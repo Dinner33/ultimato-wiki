@@ -10,30 +10,35 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.progress
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.expand
     - navigation.top
-    - navigation.footer
-    - toc.follow
+    - toc.integrate
     - content.code.copy
-    - content.code.annotate
-    - content.tabs.link
     - search.suggest
     - search.highlight
-    - search.share
+
 
   palette:
-    - scheme: slate
-      primary: deep purple
-      accent: purple
+    - scheme: default
+      primary: white
+      accent: deep purple
       toggle:
         icon: material/weather-night
         name: Modo escuro
 
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+
   font:
-    text: Inter
+    text: Roboto
     code: JetBrains Mono
+
 
   icon:
     logo: material/book-open-page-variant
@@ -54,7 +59,7 @@ markdown_extensions:
   - footnotes
   - tables
   - toc:
-      permalink: true
+      permalink: false
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
@@ -69,7 +74,9 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_css:
+  - stylesheets/wiki.css
   - stylesheets/extra.css
+
 
 extra:
   generator: false
