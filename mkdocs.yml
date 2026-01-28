@@ -88,4 +88,4 @@ nav:
       - Trades: mecanicas/trade.md
       - Vitrine: mecanicas/vitrine.md
   - items:
-      - Items: items/items.yml
+      - Items Especiais: items/items.md
