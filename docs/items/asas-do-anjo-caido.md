@@ -11,4 +11,7 @@ Superior a um peitoral de Netherite.
 
 **Obtenção**
 - Caixa da Dor
-- Concedida junto do Farelo do Anjo Caído
+
+!!! info
+    Ao obter na Caixa da Dor,  
+    o Farelo do Anjo Caido é concedida junto.
