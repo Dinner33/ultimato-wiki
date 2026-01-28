@@ -5,9 +5,6 @@ A **Troca** é uma das mecânicas mais **disputadas** do servidor.
 A Troca é uma mecanica essencial aqui:  
 ter itens raros para Troca representa **poder**, **status** e **reconhecimento** dentro do Ultimato. Isso por conta do sistema de Vitrine, que serve como status.
 
-[📦 Ver comandos](/comandos/comandos){ .md-button }
-[🖼️ Ir para a Vitrine](/mecanicas/vitrine){ .md-button .md-button--primary }
-
 ---
 
 ## 💎 Itens especiais e raridade
@@ -58,6 +55,7 @@ Nunca confie apenas em palavras —
 - 💎 Itens raros são disputados entre jogadores
 - 📊 A Tier List ajuda a medir valor
 - ⚠️ Sempre verifique antes de negociar
+
 
 
 
