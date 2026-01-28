@@ -1,0 +1,38 @@
+/* =========================
+   Ultimato Wiki - estilo "wiki"
+   ========================= */
+
+/* Mais conteudo por tela */
+.md-main__inner { max-width: 1120px; }
+
+/* Tipografia mais "doc" */
+.md-content { font-size: 15px; line-height: 1.60; }
+.md-typeset p { margin: 0.55em 0; }
+
+/* Títulos compactos */
+.md-typeset h1 { font-size: 1.55rem; margin: 0.9em 0 0.35em; }
+.md-typeset h2 { font-size: 1.20rem; margin: 1.0em 0 0.35em; }
+.md-typeset h3 { font-size: 1.02rem; margin: 0.9em 0 0.3em; }
+
+/* Menos "card/bonitinho" */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 6px;
+  box-shadow: none;
+}
+
+/* Listas mais secas */
+.md-typeset ul { margin: 0.35em 0 0.7em; }
+.md-typeset li { margin: 0.18em 0; }
+
+/* Blockquote mais "wiki" */
+.md-typeset blockquote {
+  border-left-width: 3px;
+  opacity: 0.95;
+}
+
+/* Header sem sombra (menos vibe marketing) */
+.md-header { box-shadow: none; }
+
+/* Navegação mais séria */
+.md-nav__title { font-weight: 600; }
