@@ -1,15 +1,13 @@
-## 🚀 Farelo do Anjo Caído
-
-O **Farelo do Anjo Caído** é um foguete de artifício **infinito**.
+Foguete de artifício com **uso infinito**.
 
 - Nunca acaba
 - Não consome durabilidade
-- Elimina a necessidade de fabricar foguetes
+- Remove a necessidade de fabricar foguetes
 
-> 📷 *![Farelo do Anjo Caído](../imagem/farelodoanjocaido.png)*
+> *![Farelo do Anjo Caído](../imagem/farelodoanjocaido.png)*
 
 ---
 
-### 📦 Como obter
-- Disponível na **Caixa da Dor**
-- Obtido **junto das Asas do Anjo Caído**
+**Obtenção**
+- Caixa da Dor
+- Concedido junto das Asas do Anjo Caído
