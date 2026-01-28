@@ -14,7 +14,7 @@ Atributos:
 - Pressa II
 - Super Salto I
 
-> 📷 *![Alma Arruinada](/imagem/almaarruinada.png)*
+> 📷 *![Alma Arruinada](../imagem/almaarruinada.png)*
 
 ---
 
