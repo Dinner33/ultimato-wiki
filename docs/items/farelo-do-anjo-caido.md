@@ -1,6 +1,6 @@
 Foguete de artifício com **uso infinito**.
 
-- Nunca acaba
+- Nunca acab
 - Não consome durabilidade
 - Remove a necessidade de fabricar foguetes
 
